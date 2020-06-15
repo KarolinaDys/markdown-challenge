@@ -16,4 +16,9 @@ Pinneapple on pizza ?
 * art
 * watching series
 * reading books (Stephen King)
- 
+ #### You can always count on me when...
+ you are looking for a creative solution to a problem.
+ ##### A funny story 
+I am a big fan of Stephen King's work, of course, all my family and friends know about it. Last year I received the same book three times as a gift
+###### TL;DR
+it shows how important communication is
