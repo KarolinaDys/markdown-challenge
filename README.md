@@ -7,10 +7,7 @@ Birthday: | 02/09
 ------------ | -------------
 Favorite color: | yellow
 Favorite food: | Pierogi
-
-Pinneapple on pizza ? 
-[x] Yes
-[ ] No
+Pinneapple on pizza ? | [x] Yes [ ] No
 ### Hobbies  
 * drawing
 * art
@@ -22,3 +19,5 @@ Pinneapple on pizza ?
 I am a big fan of Stephen King's work, of course, all my family and friends know about it. Last year I received the same book three times as a gift
 ###### TL;DR
 it shows how important communication is
+
+<< [previous](https://github.com/Gwen1985/markdown-challenge) || KAROLINA || [next](https://github.com/KimDelbarre/markdown-challenge) >>
